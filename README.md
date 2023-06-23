@@ -72,5 +72,9 @@ who are above 50 Years and age group 30 to 49 as Adult and people who are under 
  However Excel provides many chart types and we can choose one that suits for our data. Such as in our Project Vrinda Store Sales i have used few Visualization 
  tools to showcase provided information into graphical representation. To report Column chart is used to represent Orders & sales, Orders of Age & Gender,
  Pie Chart is used for Sales of Men & Women, Order Status & Order Channels, And finally Bar Graph is used to represent Top 5 states that made more sales for 2022 in Vrinda Store.
- 
+
+
+ **Insights Drawn:**
+
+ Women who are aged between of aged between 30-49 years are placing more orders from states like
 
