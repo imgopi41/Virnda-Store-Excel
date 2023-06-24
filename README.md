@@ -76,5 +76,25 @@ who are above 50 Years and age group 30 to 49 as Adult and people who are under 
 
  **Insights Drawn:**
 
- Women who are aged between of aged between 30-49 years are placing more orders from states like
+ Women who are aged between of aged between 30-49 years are placing more orders from states like Maharastra, 
+ Karnataka, Tamil Nadu, Uttar Pradesh And Telangana.
+
+
+   **VII. Demo**
+
+   ![Vrinda Store Sales Image](https://github.com/imgopi41/Virnda-Store-Excel/assets/99798157/4272918d-1449-47d9-8b19-f791ef430d59)
+
+
+
+**VIII. Applications & Future enhancements**
+
+
+An Interactive personalized Dashboards and reports of online sales on Vrinda Store. This type of Dashboards shows you the improvement 
+and growth of your sales. Widely used to show the reports of Store sales, Company growth & Etc in graphical format, Microsoft Excel is 
+used to represent the Vrinda Store sales of 2022
+
+**Madhav Store Sales Dashboard, This Project is also uploaded in LinkedIn,**
+
+**Check out Project in LinkedIn:**
+ 
 
