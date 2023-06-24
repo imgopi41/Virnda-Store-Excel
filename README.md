@@ -93,7 +93,7 @@ An Interactive personalized Dashboards and reports of online sales on Vrinda Sto
 and growth of your sales. Widely used to show the reports of Store sales, Company growth & Etc in graphical format, Microsoft Excel is 
 used to represent the Vrinda Store sales of 2022
 
-**Madhav Store Sales Dashboard, This Project is also uploaded in LinkedIn,**
+**Vrinda Store Sales, This Project is also uploaded in LinkedIn,**
 
 **Check out Project in LinkedIn:**
  
