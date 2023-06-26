@@ -51,7 +51,7 @@ So that Vrinda store can understand their customers and expected growth for the 
 
 **Data Processing:**
 
-I have created an Age Group column in order to categorize the Age column into Senior,Adult & Teenager repectively,
+I have created an Age Group column in order to categorize the Age column into Senior,Adult & Teenager respectively,
 The formula that was used in this process is IF(>=50,"Senior",IF(>=30,"Adult","Teenager")). We get results as Senior people
 who are above 50 Years and age group 30 to 49 as Adult and people who are under 30 years as Teenager.
 
@@ -76,7 +76,7 @@ who are above 50 Years and age group 30 to 49 as Adult and people who are under 
 
  **Insights Drawn:**
 
- Women who are aged between of aged between 30-49 years are placing more orders from states like Maharastra, 
+ Women who are aged between of aged between 30-49 years are placing more orders from states like Maharashtra, 
  Karnataka, Tamil Nadu, Uttar Pradesh And Telangana.
 
 
