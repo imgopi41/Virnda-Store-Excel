@@ -96,5 +96,7 @@ used to represent the Vrinda Store sales of 2022
 **Vrinda Store Sales, This Project is also uploaded in LinkedIn,**
 
 **Check out Project in LinkedIn:**
+
+https://www.linkedin.com/feed/update/urn:li:activity:7079105162719494144/
  
 
